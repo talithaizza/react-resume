@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Talitha Luthfia",
+    "occupation":"A college student in Universitas Gadjah Mada",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profile.svg",
+    "bio":"I'm Talitha, I was born in Bandung 28th May 1999. Now, I'm stay in boarding house and sometimes back to home in Semarang, meet to my family.    Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "talitha.luthfia@mail.ugm.ac.id",
+    "phone": "089-664 725 385",
+    "address":{
+      "street":"Jl. Kricak Kidul TR 1 no. 1148",
+      "city":"Special Region of Yogyakarta",
+      "state":"",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/talithaizza",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/talithaizza",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/talithaizza",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/talithaizza",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Universitas Gadjah Mada",
+        "degree":"Diploma III",
+        "graduated":"Soon",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"SMA N 6 Cirebon",
+        "degree":"",
+        "graduated":"2017",
+        "description":"I take a science in Senior High School and have graduated  in 2017"
+      },
+      {
+        "school":"SMP N 6 Cirebon",
+        "degree":"",
+        "graduated":"2014",
+        "description":"I have graduated Junior High School in 2014, but I'm not school in there full 3 years, just 2.5 years because I have move from one of Junior High School in Bogor"
+      },
+      {
+        "school":"SD N Rinjani Cirebon",
+        "degree":"",
+        "graduated":"2011",
+        "description":"I have graduated Elementary School in 2011. Same ad Junior High School, I have move from one school to other school. In there i just spend about 2 years until have graduated."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"55%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"45%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Malioboro",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
